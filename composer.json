@@ -18,13 +18,13 @@
         "php": ">=8.0",
         "anyitsolutions/neo4j-bolt": "^1.6",
         "neo4j-php/neo4j-php-client": "^4.6.4",
-        "symfony/dependency-injection": "^4.4 || ^5.0",
-        "symfony/framework-bundle": "^4.4 || ^5.0",
-        "symfony/http-kernel": "^4.4 || ^5.0",
+        "symfony/dependency-injection": "^4.4 || ^5.0 || ^5.2",
+        "symfony/framework-bundle": "^4.4 || ^5.0 || ^5.2",
+        "symfony/http-kernel": "^4.4 || ^5.0 || ^5.2",
         "twig/twig": "^2.0 || ^3.0"
     },
     "require-dev": {
-        "symfony/phpunit-bridge": "^4.4 || ^5.0",
+        "symfony/phpunit-bridge": "^4.4 || ^5.0 || ^5.2",
         "matthiasnoback/symfony-dependency-injection-test": "^4.1"
     },
     "suggest": {
