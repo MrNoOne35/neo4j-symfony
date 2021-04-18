@@ -15,9 +15,9 @@
         }
     ],
     "require": {
-        "php": ">=7.2",
+        "php": ">=8.0",
         "anyitsolutions/neo4j-bolt": "^1.6",
-        "anyitsolutions/neo4j-php-client": "^4.6.4",
+        "neo4j-php/neo4j-php-client": "^4.6.4",
         "symfony/dependency-injection": "^4.4 || ^5.0",
         "symfony/framework-bundle": "^4.4 || ^5.0",
         "symfony/http-kernel": "^4.4 || ^5.0",
