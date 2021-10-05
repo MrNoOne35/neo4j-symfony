@@ -1,5 +1,5 @@
 {
-    "name": "mspa/neo4j-bundle",
+    "name": "mrnoone35/neo4j-bundle",
     "description": "Symfony integration for Neo4j",
     "type": "symfony-bundle",
     "keywords": ["neo4j"],
@@ -17,14 +17,14 @@
     "require": {
         "php": ">=8.0",
         "anyitsolutions/neo4j-bolt": "^1.6",
-        "laudis/neo4j-php-client": "^1.3",
-        "symfony/dependency-injection": "^4.4 || ^5.0 || ^5.2",
-        "symfony/framework-bundle": "^4.4 || ^5.0 || ^5.2",
-        "symfony/http-kernel": "^4.4 || ^5.0 || ^5.2",
+        "laudis/neo4j-php-client": "^2.1",
+        "symfony/dependency-injection": "^5.3",
+        "symfony/framework-bundle": "^5.3",
+        "symfony/http-kernel": "^5.3",
         "twig/twig": "^2.0 || ^3.0"
     },
     "require-dev": {
-        "symfony/phpunit-bridge": "^4.4 || ^5.0 || ^5.2",
+        "symfony/phpunit-bridge": "^5.3",
         "matthiasnoback/symfony-dependency-injection-test": "^4.1"
     },
     "suggest": {
